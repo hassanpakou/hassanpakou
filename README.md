@@ -1,7 +1,8 @@
 ### Salut, moi c'est **Nestor Phaku** !
 
 👨‍💻 Développeur Full Stack passionné  
-🎓 Bac + 5 en ingénieurie logicielle 
+🎓 Bac + 5 en ingénieurie logicielle
+
 🔐 Spécialisé en **applications 3-tiers**  
 🌍 Créateur de solutions **web & mobiles** intelligentes et accessibles  
 ☁️ Enthousiaste des technologies **Firebase, React, Node.js, Flask, Supabase**
